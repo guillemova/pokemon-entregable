@@ -1,0 +1,28 @@
+.trainer__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.home__title{
+    font-size: 2.5rem;
+    color: red;
+}
+
+.home__text{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.home__form{
+    display: flex;
+    gap: 1rem;
+}
+
+.home__button{
+ font-size: 1.3rem;
+ color: rgb(168, 29, 29);
+ background-color: rgb(172, 162, 162);
+}
